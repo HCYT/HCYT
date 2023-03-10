@@ -2,7 +2,7 @@
 
 <!--
 **HCYT/HCYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Hello! 👋
 I love creating and have rich experience in turning ideas into actual products. Currently, I work as a product manager who has a solid understanding of programming and development. I can effectively communicate with engineers to coordinate and manage project timelines, ensuring that the product is completed within the allotted time frame and meets the needs of customers. I'm also committed to continuous learning to expand my skills and knowledge and further develop myself.
 
