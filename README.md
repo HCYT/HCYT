@@ -7,7 +7,7 @@ I am passionate about creating and have extensive experience in turning ideas in
   - https://github.com/HCYT/notionAI 
 - 🌱 I'm learning about the application of machine learning and artificial intelligence and plan to apply them to my next product.
 - ✨ I'm looking forward to collaborating with other product managers and developers to better understand and respond to changes in the market and technology.
-- 💬 Please feel free to ask me any questions related to product management and software development.
 - 😄 Fun fact 1: I used to be an engineer and still occasionally develop.
 - 😄 Fun fact 2: I live in Taiwan and work with people from Hong Kong through remote work, developing cool products together.
 - 📫 You can contact me through my email `cyh@hcytlog.com` .
+- 💬 Please feel free to ask me any questions related to product management and software development.
