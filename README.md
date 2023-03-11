@@ -7,7 +7,7 @@ I am passionate about creating and have extensive experience in turning ideas in
   - https://github.com/HCYT/notionAI 
 - 🌱 I'm learning about the application of machine learning and artificial intelligence and plan to apply them to my next product.
 - ✨ I'm looking forward to collaborating with other product managers and developers to better understand and respond to changes in the market and technology.
-- 😆 Fun fact 1: "HCYT" is an abbreviation of two people's names.
+- 😆 Fun fact 1: "HCYT" is an abbreviation of two people's names,only one word is difference.
 - 🧐 Fun fact 2: I used to be an engineer and still occasionally develop.
 - 😁 Fun fact 3: I live in Taiwan and work with people from Hong Kong through remote work, developing cool products together.
 - 😎 Fun fact 4: I once designed an adult video app from scratch, that was a special experience.
