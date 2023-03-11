@@ -3,7 +3,7 @@ I am passionate about creating and have extensive experience in turning ideas in
 
 ### Here are some thoughts to help you get to know me better:
 
-- 🔭 I'm currently working on a project that generates high-quality content and has released an NPM package for it.
+- 🔭 I am working on some side projects and will be converting some of them into public NPM packages.
   - https://github.com/HCYT/notionAI 
 - 🌱 I'm learning about the application of machine learning and artificial intelligence and plan to apply them to my next product.
 - ✨ I'm looking forward to collaborating with other product managers and developers to better understand and respond to changes in the market and technology.
