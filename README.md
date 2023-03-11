@@ -12,4 +12,4 @@ I am passionate about creating and have extensive experience in turning ideas in
 - 😁 Fun fact 3: I live in Taiwan and work with people from Hong Kong through remote work, developing cool products together.
 - 😎 Fun fact 4: I once designed an adult video app from scratch, that was a special experience.
 - 💬 Please feel free to ask me any questions related to product management and software development.
-- 📫 You can contact me by emailing cyh@hcytlog.com or by visiting https://pmlife.day .
+- 📫 You can contact me by emailing cyh@hcytlog.com or by visiting https://hcytlog.com or https://pmlife.day (for Chinese language users).
