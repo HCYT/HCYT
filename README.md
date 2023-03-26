@@ -15,3 +15,8 @@ I am passionate about creating and have extensive experience in turning ideas in
 - 🧐 I used to be an engineer and still occasionally develop.
 - 😁 I live in Taiwan and work with people from Hong Kong through remote work, developing cool products together.
 - 😎 I once designed an adult video app from scratch, that was a special experience.
+
+
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/DannyH)
