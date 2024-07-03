@@ -1,5 +1,5 @@
 ## Hello! 👋
-I am passionate about creating and have extensive experience in turning ideas into actual products. Currently, I work as a product manager for a remote cross-border team. I have a solid understanding of programming and development and can effectively communicate with engineers to coordinate and manage project timelines, ensuring that the product is completed within the allotted time frame and meets the needs of customers. I am also committed to continuous learning to expand my skills and knowledge and further develop myself.
+I am passionate about creating and have extensive experience in turning ideas into actual products. Currently, I work as a product manager for a remote cross-border team, where I am dedicated to developing innovative AI and LLM application products. I have a solid understanding of programming and development and can effectively communicate with engineers to coordinate and manage project timelines, ensuring that the product is completed within the allotted time frame and meets the needs of customers. I am also committed to continuous learning to expand my skills and knowledge and further develop myself.
 
 ### Here are some thoughts to help you get to know me better:
 
@@ -13,7 +13,7 @@ I am passionate about creating and have extensive experience in turning ideas in
 ## Some Fun Facts
 - 😆 "HCYT" is an abbreviation of two people's names,only one word is difference.
 - 🧐 I used to be an engineer and still occasionally develop.
-- 😁 I live in Taiwan and work with people from Hong Kong through remote work, developing cool products together.
+- 😁 I live in Taiwan and work with people from anywhere through remote work, developing cool products together.
 - 😎 I once designed an adult video app from scratch, that was a special experience.
 
 
