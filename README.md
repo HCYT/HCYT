@@ -25,8 +25,6 @@ I like small, fast iterations, measurable outcomes, and honest trade-offs. Remot
 AI/LLM product strategy • CV for skincare analysis • mobile app delivery (iOS/Android) • developer UX • growth experiments
 
 ## Contact
-- Blog: https://hcytlog.com  
-- Chinese notes: https://pmlife.day  
 - Email: **cyh@hcytlog.com**
 
 ## Fun Facts
