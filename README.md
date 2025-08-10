@@ -1,22 +1,40 @@
-## Hello! 👋
-I am passionate about creating and have extensive experience in turning ideas into actual products. Currently, I work as a product manager for a remote cross-border team, where I am dedicated to developing innovative AI and LLM application products. I have a solid understanding of programming and development and can effectively communicate with engineers to coordinate and manage project timelines, ensuring that the product is completed within the allotted time frame and meets the needs of customers. I am also committed to continuous learning to expand my skills and knowledge and further develop myself.
+# Danny (CYH) — Founder & Product Builder
 
-### Here are some thoughts to help you get to know me better:
+Hello! 👋 I build products end-to-end—from problem framing to shipped software. I bridge product and engineering, with a focus on **AI/LLM applications**, **computer-vision skincare analysis**, and **developer tooling**.
 
-- 🔭 I am working on some side projects and will be converting some of them into public NPM packages.
-  - https://github.com/HCYT/notionAI 
-- 🌱 I'm learning about the application of machine learning and artificial intelligence and plan to apply them to my next product.
-- ✨ I'm looking forward to collaborating with other product managers and developers to better understand and respond to changes in the market and technology.
-- 💬 You can feel free to ask me any questions related to product management and software development.
-- 📫 You can contact me by emailing cyh@hcytlog.com or by visiting https://hcytlog.com or https://pmlife.day (for Chinese language users).
+## Currently Building
+- **Ingrelens (cosGlint)** — Third-party cosmetics ingredient & skin decision assistant: scan labels, interpret risk/effectiveness, and get personalized guidance.  
+  ➜ https://ingrelens.com
+- **Termdock** — A lightweight AI coding terminal aiming for less IDE ceremony and more command-driven flow.  
+  ➜ https://github.com/HCYT/Termdock
 
-## Some Fun Facts
-- 😆 "HCYT" is an abbreviation of two people's names,only one word is difference.
-- 🧐 I used to be an engineer and still occasionally develop.
-- 😁 I live in Taiwan and work with people from anywhere through remote work, developing cool products together.
-- 😎 I once designed an adult video app from scratch, that was a special experience.
+## What I’m exploring right now
+- FindSkin POC: face-region masks, redness/oil/spot detection, and explainable scoring (Mediapipe + classic CV).
+- RAG pipelines for skincare research and content retrieval.
+- Task-oriented AI agents that self-update priorities and execute scripts with guardrails.
 
+## Skills & Tools
+**Product:** strategy, discovery interviews, roadmap & delivery, metrics & experimentation  
+**Engineering:** FastAPI (Python), TypeScript, Next.js, React Native (Expo), PostgreSQL, Docker, CI/CD  
+**AI/ML:** OpenAI API, RAG, prompt & eval, computer vision (Mediapipe/OpenCV)
 
+## Work Style
+I like small, fast iterations, measurable outcomes, and honest trade-offs. Remote-first; comfortable leading cross-border teams and speaking both product and code.
 
+## Ask me about
+AI/LLM product strategy • CV for skincare analysis • mobile app delivery (iOS/Android) • developer UX • growth experiments
+
+## Contact
+- Blog: https://hcytlog.com  
+- Chinese notes: https://pmlife.day  
+- Email: **cyh@hcytlog.com**
+
+## Fun Facts
+- PM who’s also a full-stack engineer (discovery → architecture → code → ship).  
+- Based in Taiwan, collaborating remotely across time zones.  
+- “HCYT” comes from two names—only one letter differs.  
+- Once built an adult-video app from scratch—useful lessons in paywalls, infra, and compliance.
+
+---
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/PMLIFEDAY)
