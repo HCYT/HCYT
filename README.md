@@ -25,4 +25,4 @@ I drive fast, focused iterations and prioritize measurable outcomes, but always 
 
 ---
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/PMLIFEDAY)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hcyt)
