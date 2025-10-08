@@ -8,6 +8,7 @@ I drive fast, focused iterations and prioritize measurable outcomes, but always 
 ## Product 
 - Ingrelens (cosGlint) — AI-powered cosmetics ingredient & skin decision assistant: scan labels, interpret risk/effectiveness, and get personalized guidance.
   - ➜ https://ingrelens.com
+  - ➜ https://go.cosglint.com
 - Termdock — Lightweight, terminal-first AI IDE for fast, command-driven dev flow.
   - ➜ https://github.com/HCYT/Termdock
 - twlint — CLI tool for Traditional Chinese text linting
