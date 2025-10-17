@@ -10,7 +10,7 @@ I drive fast, focused iterations and prioritize measurable outcomes, but always 
   - ➜ https://ingrelens.com
   - ➜ https://go.cosglint.com
 - Termdock — Lightweight, terminal-first AI IDE for fast, command-driven dev flow.
-  - ➜ [https://github.com/HCYT/Termdock](https://github.com/termdock/termdock-issues)
+  - ➜ https://github.com/termdock/termdock-issues
 - twlint — CLI tool for Traditional Chinese text linting
   - ➜ https://www.npmjs.com/package/@termdock/twlint
   - ➜ https://github.com/HCYT/twlint
